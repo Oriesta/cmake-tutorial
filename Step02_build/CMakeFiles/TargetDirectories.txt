@@ -1,0 +1,6 @@
+/home/oriesta/Projects/cmake-tutorial/Step02_build/CMakeFiles/rebuild_cache.dir
+/home/oriesta/Projects/cmake-tutorial/Step02_build/CMakeFiles/edit_cache.dir
+/home/oriesta/Projects/cmake-tutorial/Step02_build/CMakeFiles/Tutorial.dir
+/home/oriesta/Projects/cmake-tutorial/Step02_build/MathFunctions/CMakeFiles/rebuild_cache.dir
+/home/oriesta/Projects/cmake-tutorial/Step02_build/MathFunctions/CMakeFiles/edit_cache.dir
+/home/oriesta/Projects/cmake-tutorial/Step02_build/MathFunctions/CMakeFiles/MathFunctions.dir

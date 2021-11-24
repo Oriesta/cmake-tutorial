@@ -1,0 +1,3 @@
+/home/oriesta/Projects/cmake-tutorial/Step01_build/CMakeFiles/rebuild_cache.dir
+/home/oriesta/Projects/cmake-tutorial/Step01_build/CMakeFiles/edit_cache.dir
+/home/oriesta/Projects/cmake-tutorial/Step01_build/CMakeFiles/Tutorial.dir
